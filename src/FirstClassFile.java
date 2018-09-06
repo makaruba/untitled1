@@ -8,5 +8,6 @@ public class FirstClassFile {
 
 
         System.out.println("atlermaster brunch created");
+        System.out.println("5");
     }
 }
